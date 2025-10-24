@@ -1,0 +1,33 @@
+.details-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.pokemon-image {
+  width: 150px;
+  height: 150px;
+}
+
+.section {
+  margin-top: 16px;
+}
+
+.badge {
+  background: #ffc107;
+  padding: 5px 10px;
+  margin: 6px;
+  border-radius: 6px;
+  display: inline-block;
+  text-transform: capitalize;
+}
+
+.ability {
+  background: #03a9f4;
+}
+
+.back-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
